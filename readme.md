@@ -3,7 +3,7 @@
 This repository contains the project plan, functional and technical design of the WaterUp project.
 The language of the documents is dutch because that is our native language and we are
 required by school to supply all documents in dutch. To learn more about this project please visit
-[the projects website](https://www.inf1i.ga) or contact us at [:e-mail:our mail](mailto:contact@inf1i.ga).
+[the projects website](https://www.inf1i.ga) or contact us at [:e-mail: contact@inf1i.ga](mailto:contact@inf1i.ga).
 
 ## About this project
 We are developing an internet of things device as part of the project
